@@ -1,0 +1,1 @@
+This error occurs when using the `Dimensions` API in React Native to get screen dimensions and the value is not updated when the screen orientation changes. This often leads to layout issues where components are not rendered correctly or are positioned incorrectly after rotating the device.
